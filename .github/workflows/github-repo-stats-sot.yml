@@ -1,0 +1,61 @@
+name: GH STATS ON STACK-OF-TASKS
+
+on:
+  schedule:
+    # Run this once per day (hours in UTC time zone).
+    - cron: "* 7 * * *"
+  workflow_dispatch: # Allow for running this manually.
+
+jobs:
+  j1:
+    name: stats pinocchi
+    runs-on: ubuntu-latest
+    steps:
+      - name: GHRS
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          # Define the target repository, the repo to fetch
+          # stats for and to generate the report for.
+          # Leave this undefined when stats repository
+          # and data repository should be the same.
+          repository: stack-of-tasks/pinocchio
+          # Required token privileges: Can read the target
+          # repo, and can push to the repository this
+          # workflow file lives in (to store data and
+          # the report files).
+          ghtoken: ${{ secrets.GHRS_SOT_GITHUB_API_TOKEN }}
+  j2:
+    name: stats eigenpy
+    runs-on: ubuntu-latest
+    steps:
+      - name: GHRS
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          # Define the target repository, the repo to fetch
+          # stats for and to generate the report for.
+          # Leave this undefined when stats repository
+          # and data repository should be the same.
+          repository: stack-of-tasks/eigenpy
+          # Required token privileges: Can read the target
+          # repo, and can push to the repository this
+          # workflow file lives in (to store data and
+          # the report files).
+          ghtoken: ${{ secrets.GHRS_SOT_GITHUB_API_TOKEN }}
+  j3:
+    name: stats tsid
+    runs-on: ubuntu-latest
+    steps:
+      - name: GHRS
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          # Define the target repository, the repo to fetch
+          # stats for and to generate the report for.
+          # Leave this undefined when stats repository
+          # and data repository should be the same.
+          repository: stack-of-tasks/tsid
+          # Required token privileges: Can read the target
+          # repo, and can push to the repository this
+          # workflow file lives in (to store data and
+          # the report files).
+          ghtoken: ${{ secrets.GHRS_SOT_GITHUB_API_TOKEN }}
+ 
