@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-22 07:36 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-22 07:46 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04:
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/blob/master/CMakeLists.txt`, 05: `/issues/230`, 06: `/issues/469`, 07: `/pulls`, 08: `/tree/master/python`, 09: `/releases`, 10: `/tree/master/python/eigenpy`, 11: `/tree/master/.github/workflows`, 12: `/blob/master/include/eigenpy/eigen-from-python.hpp`
+Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/blob/master/CMakeLists.txt`, 05: `/issues/230`, 06: `/issues/469`, 07: `/pulls`, 08: `/tree/master/python`, 09: `/tree/master/python/eigenpy`, 10: `/releases`, 11: `/blob/master/include/eigenpy/eigen-from-python.hpp`, 12: `/tree/master/.github/workflows`
 
 
 <script type="text/javascript">
