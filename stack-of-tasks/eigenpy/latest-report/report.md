@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-22 07:46 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-22 07:56 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `Bing`, 05: `index.ros.org`, 06: `pypi.org`, 07: `cn.bing.com`, 08: `DuckDuckGo`, 09: `docs.ros.org`, 10: `Baidu`, 11: `agirobot.feishu.cn`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `Bing`, 05: `index.ros.org`, 06: `pypi.org`, 07: `cn.bing.com`, 08: `Baidu`, 09: `agirobot.feishu.cn`, 10: `DuckDuckGo`, 11: `docs.ros.org`
 
 
 
