@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/pinocchio
-% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-22 07:13 UTC.
+% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-22 07:25 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `link.zhihu.com`, 06: `Baidu`, 07: `index.ros.org`, 08: `pypi.org`, 09: `link.csdn.net`, 10: `scaron.info`, 11: `overleaf.corp.theaiinstitute.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `link.zhihu.com`, 06: `Baidu`, 07: `index.ros.org`, 08: `pypi.org`, 09: `link.csdn.net`, 10: `overleaf.corp.theaiinstitute.com`, 11: `scaron.info`
 
 
 
