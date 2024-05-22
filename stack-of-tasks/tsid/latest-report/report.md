@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/tsid
-% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-22 07:13 UTC.
+% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-22 07:25 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `yandex.ru`, 04: `web.telegram.org`, 05: `andreadelprete.github.io`, 06: `gitee.com`, 07: `Bing`, 08: `pypi.org`, 09: `search.brave.com`, 10: `index.ros.org`, 11: `dspace.cvut.cz`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `yandex.ru`, 04: `web.telegram.org`, 05: `andreadelprete.github.io`, 06: `gitee.com`, 07: `Bing`, 08: `search.brave.com`, 09: `index.ros.org`, 10: `pypi.org`, 11: `dspace.cvut.cz`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `yandex.ru`, 04: `web.tele
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/src`, 03: `/tree/master`, 04: `/tree/master/exercizes`, 05: `/tree/master/demo`, 06: `/tree/master/bindings/python`, 07: `/tree/master/include/tsid`, 08: `/tree/master/include/tsid/bindings/python/constraint`, 09: `/tree/master/exercizes/notebooks`, 10: `/tree/master/include/tsid/bindings/python`
+Top 15 paths: 01: `/`, 02: `/tree/master/src`, 03: `/tree/master`, 04: `/tree/master/exercizes`, 05: `/tree/master/demo`, 06: `/tree/master/bindings/python`, 07: `/tree/master/include/tsid`, 08: `/tree/master/include/tsid/bindings/python/constraint`, 09: `/tree/master/include/tsid/bindings/python`, 10: `/tree/master/exercizes/notebooks`
 
 
 <script type="text/javascript">
