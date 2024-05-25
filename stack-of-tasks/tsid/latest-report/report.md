@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/tsid
-% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-25 07:43 UTC.
+% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-25 07:53 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `yandex.ru`, 04: `gitee.com`, 05: `web.telegram.org`, 06: `Bing`, 07: `andreadelprete.github.io`, 08: `memory-of-motion.github.io`, 09: `search.brave.com`, 10: `dspace.cvut.cz`, 11: `index.ros.org`, 12: `pypi.org`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `yandex.ru`, 04: `gitee.com`, 05: `web.telegram.org`, 06: `Bing`, 07: `andreadelprete.github.io`, 08: `memory-of-motion.github.io`, 09: `dspace.cvut.cz`, 10: `search.brave.com`, 11: `index.ros.org`, 12: `pypi.org`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `yandex.ru`, 04: `gitee.co
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/src`, 03: `/wiki`, 04: `/tree/master`, 05: `/tree/master/exercizes`, 06: `/tree/master/demo`, 07: `/tree/master/src/tasks`, 08: `/tree/master/include/tsid`, 09: `/tree/master/bindings/python`, 10: `/tree/master/include/tsid/bindings/python/constraint`, 11: `/blob/master/exercizes/tsid_biped.py`, 12: `/tree/master/exercizes/notebooks`, 13: `/tree/master/include/tsid/bindings/python`
+Top 15 paths: 01: `/`, 02: `/tree/master/src`, 03: `/wiki`, 04: `/tree/master`, 05: `/tree/master/exercizes`, 06: `/tree/master/demo`, 07: `/tree/master/src/tasks`, 08: `/tree/master/include/tsid`, 09: `/tree/master/bindings/python`, 10: `/tree/master/include/tsid/bindings/python/constraint`, 11: `/blob/master/exercizes/tsid_biped.py`, 12: `/tree/master/include/tsid/bindings/python`, 13: `/tree/master/exercizes/notebooks`
 
 
 <script type="text/javascript">
