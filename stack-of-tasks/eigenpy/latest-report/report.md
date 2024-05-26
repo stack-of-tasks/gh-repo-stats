@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-26 07:24 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-26 07:34 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `Bing`, 05: `pypi.org`, 06: `index.ros.org`, 07: `cn.bing.com`, 08: `DuckDuckGo`, 09: `simple-robotics.github.io`, 10: `copilot.microsoft.com`, 11: `Baidu`, 12: `docs.ros.org`, 13: `agirobot.feishu.cn`, 14: `search.brave.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `Bing`, 05: `pypi.org`, 06: `index.ros.org`, 07: `cn.bing.com`, 08: `DuckDuckGo`, 09: `docs.ros.org`, 10: `search.brave.com`, 11: `Baidu`, 12: `copilot.microsoft.com`, 13: `agirobot.feishu.cn`, 14: `simple-robotics.github.io`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04:
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/blob/master/CMakeLists.txt`, 05: `/issues/230`, 06: `/releases`, 07: `/issues/469`, 08: `/tree/master/python`, 09: `/pulls`, 10: `/tree/master/python/eigenpy`, 11: `/tree/master/doc`, 12: `/tree/master/.github/workflows`, 13: `/blob/master/include/eigenpy/eigen-from-python.hpp`, 14: `/tree/master/doc/pictures`
+Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/blob/master/CMakeLists.txt`, 05: `/issues/230`, 06: `/releases`, 07: `/issues/469`, 08: `/tree/master/python`, 09: `/pulls`, 10: `/tree/master/python/eigenpy`, 11: `/tree/master/doc`, 12: `/tree/master/doc/pictures`, 13: `/tree/master/.github/workflows`, 14: `/blob/master/include/eigenpy/eigen-from-python.hpp`
 
 
 <script type="text/javascript">
