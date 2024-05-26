@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/tsid
-% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-26 07:23 UTC.
+% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-26 07:34 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `yandex.ru`, 04: `web.telegram.org`, 05: `gitee.com`, 06: `Bing`, 07: `andreadelprete.github.io`, 08: `memory-of-motion.github.io`, 09: `pypi.org`, 10: `dspace.cvut.cz`, 11: `search.brave.com`, 12: `index.ros.org`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `yandex.ru`, 04: `web.telegram.org`, 05: `gitee.com`, 06: `Bing`, 07: `andreadelprete.github.io`, 08: `memory-of-motion.github.io`, 09: `index.ros.org`, 10: `dspace.cvut.cz`, 11: `pypi.org`, 12: `search.brave.com`
 
 
 
