@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-28 07:45 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-28 07:55 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `Bing`, 05: `pypi.org`, 06: `index.ros.org`, 07: `cn.bing.com`, 08: `DuckDuckGo`, 09: `Baidu`, 10: `docs.ros.org`, 11: `simple-robotics.github.io`, 12: `agirobot.feishu.cn`, 13: `search.brave.com`, 14: `copilot.microsoft.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `Bing`, 05: `pypi.org`, 06: `index.ros.org`, 07: `cn.bing.com`, 08: `DuckDuckGo`, 09: `copilot.microsoft.com`, 10: `Baidu`, 11: `search.brave.com`, 12: `simple-robotics.github.io`, 13: `docs.ros.org`, 14: `agirobot.feishu.cn`
 
 
 
