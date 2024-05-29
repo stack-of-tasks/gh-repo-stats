@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-29 07:36 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-29 07:47 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `Bing`, 05: `index.ros.org`, 06: `pypi.org`, 07: `cn.bing.com`, 08: `DuckDuckGo`, 09: `Baidu`, 10: `agirobot.feishu.cn`, 11: `search.brave.com`, 12: `copilot.microsoft.com`, 13: `jcarpent.github.io`, 14: `simple-robotics.github.io`, 15: `docs.ros.org`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `Bing`, 05: `index.ros.org`, 06: `pypi.org`, 07: `cn.bing.com`, 08: `DuckDuckGo`, 09: `Baidu`, 10: `search.brave.com`, 11: `simple-robotics.github.io`, 12: `copilot.microsoft.com`, 13: `jcarpent.github.io`, 14: `agirobot.feishu.cn`, 15: `docs.ros.org`
 
 
 
