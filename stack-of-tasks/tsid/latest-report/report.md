@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/tsid
-% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-06-15 07:46 UTC.
+% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-06-15 07:56 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `Bing`, 05: `yandex.ru`, 06: `gitee.com`, 07: `memory-of-motion.github.io`, 08: `web.telegram.org`, 09: `ggory15.github.io`, 10: `matheecs.tech`, 11: `scaron.info`, 12: `dspace.cvut.cz`, 13: `index.ros.org`, 14: `pypi.org`, 15: `t.co`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `Bing`, 05: `yandex.ru`, 06: `gitee.com`, 07: `memory-of-motion.github.io`, 08: `web.telegram.org`, 09: `ggory15.github.io`, 10: `reddit.com`, 11: `pypi.org`, 12: `index.ros.org`, 13: `t.co`, 14: `stack-of-tasks.github.io`, 15: `search.brave.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/exercizes`, 03: `/tree/master/src`, 04: `/tree/master/demo`, 05: `/wiki`, 06: `/tree/master`, 07: `/blob/master/demo/demo_quadruped.py`, 08: `/blob/master/exercizes/tsid_biped.py`, 09: `/blob/master/exercizes/ex_4_plan_LIPM_romeo.py`, 10: `/blob/master/exercizes/romeo_conf.py`, 11: `/tree/master/src/tasks`, 12: `/tree/master/src/robots`, 13: `/tree/master/doc`, 14: `/issues`, 15: `/tree/master/models`
+Top 15 paths: 01: `/`, 02: `/tree/master/exercizes`, 03: `/tree/master/src`, 04: `/tree/master/demo`, 05: `/wiki`, 06: `/tree/master`, 07: `/blob/master/demo/demo_quadruped.py`, 08: `/blob/master/exercizes/tsid_biped.py`, 09: `/blob/master/exercizes/ex_4_plan_LIPM_romeo.py`, 10: `/tree/master/src/robots`, 11: `/tree/master/doc`, 12: `/tree/master/src/tasks`, 13: `/blob/master/exercizes/romeo_conf.py`, 14: `/tree/master/models`, 15: `/issues`
 
 
 <script type="text/javascript">
