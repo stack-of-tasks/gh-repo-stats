@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/pinocchio
-% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-06-21 07:37 UTC.
+% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-06-21 07:47 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `Bing`, 05: `cn.bing.com`, 06: `link.zhihu.com`, 07: `Baidu`, 08: `linkedin.com`, 09: `DuckDuckGo`, 10: `leggedrobotics.github.io`, 11: `pypi.org`, 12: `index.ros.org`, 13: `com.linkedin.android`, 14: `com.google.android.gm`, 15: `statics.teams.cdn.office.net`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `Bing`, 05: `cn.bing.com`, 06: `link.zhihu.com`, 07: `Baidu`, 08: `linkedin.com`, 09: `DuckDuckGo`, 10: `leggedrobotics.github.io`, 11: `pypi.org`, 12: `index.ros.org`, 13: `com.google.android.gm`, 14: `com.linkedin.android`, 15: `statics.teams.cdn.office.net`
 
 
 
