@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-06-28 07:56 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-06-28 08:20 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `index.ros.org`, 05: `pypi.org`, 06: `Bing`, 07: `cn.bing.com`, 08: `Baidu`, 09: `DuckDuckGo`, 10: `jcarpent.github.io`, 11: `robotpkg.openrobots.org`, 12: `docs.ros.org`, 13: `copilot.microsoft.com`, 14: `agirobot.feishu.cn`, 15: `search.brave.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `index.ros.org`, 05: `pypi.org`, 06: `Bing`, 07: `cn.bing.com`, 08: `Baidu`, 09: `DuckDuckGo`, 10: `jcarpent.github.io`, 11: `docs.ros.org`, 12: `robotpkg.openrobots.org`, 13: `agirobot.feishu.cn`, 14: `simple-robotics.github.io`, 15: `anaconda.org`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04:
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/tree/master/python`, 05: `/blob/master/CMakeLists.txt`, 06: `/issues/230`, 07: `/releases`, 08: `/pulls`, 09: `/tree/master/python/eigenpy`, 10: `/pull/451`, 11: `/tree/master/benchmarks`, 12: `/tree/master/src`, 13: `/tree/master/doc`, 14: `/issues/469`, 15: `/tree/master/include/eigenpy`
+Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/tree/master/python`, 05: `/blob/master/CMakeLists.txt`, 06: `/issues/230`, 07: `/releases`, 08: `/pulls`, 09: `/tree/master/python/eigenpy`, 10: `/pull/451`, 11: `/tree/master/benchmarks`, 12: `/tree/master/src`, 13: `/tree/master/doc`, 14: `/issues/469`, 15: `/tree/master/unittest`
 
 
 <script type="text/javascript">
