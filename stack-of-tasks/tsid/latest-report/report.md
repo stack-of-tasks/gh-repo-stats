@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/tsid
-% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-20 07:56 UTC.
+% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-20 08:19 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `web.telegram.org`, 08: `pypi.org`, 09: `gitee.com`, 10: `srl.kaiten.ru`, 11: `ggory15.github.io`, 12: `cn.bing.com`, 13: `reddit.com`, 14: `index.ros.org`, 15: `link.zhihu.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `web.telegram.org`, 08: `gitee.com`, 09: `pypi.org`, 10: `srl.kaiten.ru`, 11: `ggory15.github.io`, 12: `index.ros.org`, 13: `cn.bing.com`, 14: `reddit.com`, 15: `link.zhihu.com`
 
 
 
