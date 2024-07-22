@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/tsid
-% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-22 07:14 UTC.
+% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-22 07:26 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `web.telegram.org`, 08: `pypi.org`, 09: `gitee.com`, 10: `srl.kaiten.ru`, 11: `cn.bing.com`, 12: `ggory15.github.io`, 13: `index.ros.org`, 14: `link.zhihu.com`, 15: `reddit.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `web.telegram.org`, 08: `pypi.org`, 09: `gitee.com`, 10: `srl.kaiten.ru`, 11: `index.ros.org`, 12: `ggory15.github.io`, 13: `cn.bing.com`, 14: `reddit.com`, 15: `link.zhihu.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/exercizes`, 03: `/tree/master/src`, 04: `/tree/master/demo`, 05: `/tree/master/exercizes/notebooks`, 06: `/issues`, 07: `/wiki`, 08: `/tree/master`, 09: `/tree/master/include/tsid`, 10: `/tree/master/src/robots`, 11: `/blob/master/exercizes/tsid_biped.py`, 12: `/blob/master/demo/demo_quadruped.py`, 13: `/tree/master/src/solvers`, 14: `/blob/master/exercizes/ex_4_plan_LIPM_romeo.py`, 15: `/tree/master/src/formulations`
+Top 15 paths: 01: `/`, 02: `/tree/master/exercizes`, 03: `/tree/master/src`, 04: `/tree/master/demo`, 05: `/tree/master/exercizes/notebooks`, 06: `/issues`, 07: `/wiki`, 08: `/tree/master`, 09: `/tree/master/include/tsid`, 10: `/tree/master/src/solvers`, 11: `/tree/master/src/robots`, 12: `/blob/master/exercizes/tsid_biped.py`, 13: `/blob/master/demo/demo_quadruped.py`, 14: `/tree/master/src/tasks`, 15: `/tree/master/doc`
 
 
 <script type="text/javascript">
