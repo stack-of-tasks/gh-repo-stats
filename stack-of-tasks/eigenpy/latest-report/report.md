@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-08-01 07:47 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-08-01 07:57 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `index.ros.org`, 05: `cn.bing.com`, 06: `pypi.org`, 07: `Bing`, 08: `Baidu`, 09: `docs.ros.org`, 10: `DuckDuckGo`, 11: `yandex.ru`, 12: `robotpkg.openrobots.org`, 13: `jcarpent.github.io`, 14: `agirobot.feishu.cn`, 15: `search.brave.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04: `index.ros.org`, 05: `cn.bing.com`, 06: `pypi.org`, 07: `Bing`, 08: `Baidu`, 09: `DuckDuckGo`, 10: `docs.ros.org`, 11: `yandex.ru`, 12: `robotpkg.openrobots.org`, 13: `jcarpent.github.io`, 14: `repo.ros2.org`, 15: `search.brave.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `eigen.tuxfamily.org`, 04:
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/tree/master/python`, 05: `/tree/master`, 06: `/blob/master/CMakeLists.txt`, 07: `/tree/master/src`, 08: `/tree/master/python/eigenpy`, 09: `/tree/master/include/eigenpy`, 10: `/releases`, 11: `/issues/230`, 12: `/pulls`, 13: `/tree/master/doc`, 14: `/blob/master/python/eigenpy/windows_dll_manager.py`, 15: `/tree/master/doc/additionalDoc`
+Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/tree/master/python`, 05: `/tree/master`, 06: `/blob/master/CMakeLists.txt`, 07: `/tree/master/src`, 08: `/tree/master/python/eigenpy`, 09: `/releases`, 10: `/tree/master/include/eigenpy`, 11: `/issues/230`, 12: `/pulls`, 13: `/tree/master/doc`, 14: `/blob/master/python/eigenpy/windows_dll_manager.py`, 15: `/tree/master/benchmarks`
 
 
 <script type="text/javascript">
