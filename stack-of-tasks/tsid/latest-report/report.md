@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/tsid
-% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-08-29 07:15 UTC.
+% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-08-29 07:27 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `web.telegram.org`, 08: `gitee.com`, 09: `pypi.org`, 10: `srl.kaiten.ru`, 11: `DuckDuckGo`, 12: `cn.bing.com`, 13: `reddit.com`, 14: `link.zhihu.com`, 15: `index.ros.org`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `web.telegram.org`, 08: `pypi.org`, 09: `gitee.com`, 10: `DuckDuckGo`, 11: `cn.bing.com`, 12: `srl.kaiten.ru`, 13: `ggory15.github.io`, 14: `link.zhihu.com`, 15: `reddit.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/exercizes`, 03: `/issues`, 04: `/tree/master/src`, 05: `/tree/master/exercizes/notebooks`, 06: `/tree/master/demo`, 07: `/wiki`, 08: `/tree/master`, 09: `/issues/232`, 10: `/pull/234`, 11: `/tree/master/include/tsid`, 12: `/tree/master/src/tasks`, 13: `/issues/231`, 14: `/tree/master/src/robots`, 15: `/tree/master/src/solvers`
+Top 15 paths: 01: `/`, 02: `/tree/master/exercizes`, 03: `/issues`, 04: `/tree/master/src`, 05: `/tree/master/exercizes/notebooks`, 06: `/tree/master/demo`, 07: `/wiki`, 08: `/pull/234`, 09: `/tree/master/include/tsid`, 10: `/issues/232`, 11: `/tree/master`, 12: `/tree/master/src/tasks`, 13: `/blob/master/demo/demo_quadruped.py`, 14: `/tree/master/src/solvers`, 15: `/issues/233`
 
 
 <script type="text/javascript">
