@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/tsid
-% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-07 07:39 UTC.
+% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-07 07:49 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `gitee.com`, 08: `pypi.org`, 09: `web.telegram.org`, 10: `cn.bing.com`, 11: `srl.kaiten.ru`, 12: `DuckDuckGo`, 13: `index.ros.org`, 14: `reddit.com`, 15: `ggory15.github.io`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `gitee.com`, 08: `pypi.org`, 09: `web.telegram.org`, 10: `cn.bing.com`, 11: `srl.kaiten.ru`, 12: `DuckDuckGo`, 13: `ggory15.github.io`, 14: `link.zhihu.com`, 15: `index.ros.org`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/exercizes`, 03: `/issues`, 04: `/tree/master/src`, 05: `/tree/master/demo`, 06: `/tree/master/exercizes/notebooks`, 07: `/pull/234`, 08: `/tree/master/include/tsid`, 09: `/issues/232`, 10: `/wiki`, 11: `/tree/master`, 12: `/tree/master/src/tasks`, 13: `/pulls`, 14: `/issues/233`, 15: `/tree/master/src/solvers`
+Top 15 paths: 01: `/`, 02: `/tree/master/exercizes`, 03: `/issues`, 04: `/tree/master/src`, 05: `/tree/master/demo`, 06: `/tree/master/exercizes/notebooks`, 07: `/pull/234`, 08: `/wiki`, 09: `/tree/master/include/tsid`, 10: `/tree/master`, 11: `/issues/232`, 12: `/tree/master/src/tasks`, 13: `/issues/233`, 14: `/blob/master/demo/demo_quadruped.py`, 15: `/blob/master/exercizes/tsid_biped.py`
 
 
 <script type="text/javascript">
