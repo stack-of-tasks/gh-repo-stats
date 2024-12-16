@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/tsid
-% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-16 07:54 UTC.
+% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-16 08:22 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `web.telegram.org`, 08: `gitee.com`, 09: `link.zhihu.com`, 10: `pypi.org`, 11: `cn.bing.com`, 12: `srl.kaiten.ru`, 13: `DuckDuckGo`, 14: `scaron.info`, 15: `chatgpt.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `web.telegram.org`, 08: `pypi.org`, 09: `link.zhihu.com`, 10: `gitee.com`, 11: `scaron.info`, 12: `DuckDuckGo`, 13: `cn.bing.com`, 14: `srl.kaiten.ru`, 15: `reddit.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/exercizes`, 03: `/tree/master/src`, 04: `/issues`, 05: `/tree/master`, 06: `/tree/master/demo`, 07: `/tree/master/exercizes/notebooks`, 08: `/issues/232`, 09: `/tree/master/include/tsid`, 10: `/pull/234`, 11: `/wiki`, 12: `/tree/master/src/tasks`, 13: `/blob/master/doc/tsid_cheatsheet.tex`, 14: `/pull/245`, 15: `/issues/231`
+Top 15 paths: 01: `/`, 02: `/tree/master/exercizes`, 03: `/tree/master/src`, 04: `/issues`, 05: `/tree/master`, 06: `/tree/master/demo`, 07: `/tree/master/exercizes/notebooks`, 08: `/wiki`, 09: `/pull/234`, 10: `/issues/232`, 11: `/tree/master/include/tsid`, 12: `/tree/master/src/tasks`, 13: `/pull/245`, 14: `/blob/master/doc/tsid_cheatsheet.tex`, 15: `/issues/24`
 
 
 <script type="text/javascript">
