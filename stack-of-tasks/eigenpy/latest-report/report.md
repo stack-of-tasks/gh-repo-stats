@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-23 07:29 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-23 07:39 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `eigen.tuxfamily.org`, 06: `index.ros.org`, 07: `DuckDuckGo`, 08: `pypi.org`, 09: `robotpkg.openrobots.org`, 10: `docs.ros.org`, 11: `Baidu`, 12: `yandex.ru`, 13: `jcarpent.github.io`, 14: `discourse.ros.org`, 15: `gitcode.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `eigen.tuxfamily.org`, 06: `index.ros.org`, 07: `DuckDuckGo`, 08: `pypi.org`, 09: `docs.ros.org`, 10: `yandex.ru`, 11: `Baidu`, 12: `robotpkg.openrobots.org`, 13: `jcarpent.github.io`, 14: `discourse.ros.org`, 15: `di.ens.fr`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`,
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/releases`, 05: `/tree/master/python`, 06: `/tree/master/python/eigenpy`, 07: `/blob/master/CMakeLists.txt`, 08: `/tree/master`, 09: `/tree/master/src`, 10: `/tree/master/include/eigenpy`, 11: `/issues/230`, 12: `/pulls`, 13: `/releases/tag/v3.10.0`, 14: `/pull/498`, 15: `/pull/487`
+Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/releases`, 05: `/tree/master/python`, 06: `/tree/master/python/eigenpy`, 07: `/blob/master/CMakeLists.txt`, 08: `/tree/master`, 09: `/tree/master/src`, 10: `/pulls`, 11: `/tree/master/include/eigenpy`, 12: `/issues/230`, 13: `/releases/tag/v3.10.0`, 14: `/pull/487`, 15: `/pull/498`
 
 
 <script type="text/javascript">
