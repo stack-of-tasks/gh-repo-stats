@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-02-08 07:14 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-02-08 07:26 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `eigen.tuxfamily.org`, 06: `index.ros.org`, 07: `DuckDuckGo`, 08: `Baidu`, 09: `pypi.org`, 10: `chatgpt.com`, 11: `yandex.ru`, 12: `robotpkg.openrobots.org`, 13: `docs.ros.org`, 14: `jcarpent.github.io`, 15: `stephane-caron.github.io`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `eigen.tuxfamily.org`, 06: `index.ros.org`, 07: `DuckDuckGo`, 08: `Baidu`, 09: `pypi.org`, 10: `robotpkg.openrobots.org`, 11: `docs.ros.org`, 12: `chatgpt.com`, 13: `yandex.ru`, 14: `jcarpent.github.io`, 15: `di.ens.fr`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`,
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/releases`, 05: `/blob/master/development/build.md`, 06: `/tree/master/python`, 07: `/tree/master/python/eigenpy`, 08: `/tree/master`, 09: `/tree/master/src`, 10: `/blob/master/CMakeLists.txt`, 11: `/pulls`, 12: `/issues/230`, 13: `/tree/master/include/eigenpy`, 14: `/pull/487`, 15: `/pull/498`
+Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/issues`, 04: `/releases`, 05: `/blob/master/development/build.md`, 06: `/tree/master/python`, 07: `/tree/master/python/eigenpy`, 08: `/blob/master/CMakeLists.txt`, 09: `/tree/master/src`, 10: `/tree/master`, 11: `/pulls`, 12: `/issues/230`, 13: `/tree/master/include/eigenpy`, 14: `/releases/tag/v3.10.0`, 15: `/pull/487`
 
 
 <script type="text/javascript">
