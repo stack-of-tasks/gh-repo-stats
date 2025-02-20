@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/pinocchio
-% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-02-20 07:49 UTC.
+% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-02-20 07:59 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `Bing`, 05: `cn.bing.com`, 06: `linkedin.com`, 07: `Baidu`, 08: `chatgpt.com`, 09: `link.zhihu.com`, 10: `index.ros.org`, 11: `reddit.com`, 12: `DuckDuckGo`, 13: `com.linkedin.android`, 14: `pypi.org`, 15: `leggedrobotics.github.io`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `Bing`, 05: `cn.bing.com`, 06: `linkedin.com`, 07: `Baidu`, 08: `chatgpt.com`, 09: `link.zhihu.com`, 10: `index.ros.org`, 11: `DuckDuckGo`, 12: `reddit.com`, 13: `com.linkedin.android`, 14: `pypi.org`, 15: `leggedrobotics.github.io`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `Bing`, 05: `c
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/2231`, 03: `/releases/tag/v3.0.0`, 04: `/tree/master/examples`, 05: `/issues`, 06: `/blob/master/doc/pinocchio_cheat_sheet.pdf`, 07: `/tree/master`, 08: `/tree/master/src`, 09: `/tree/master/include/pinocchio`, 10: `/pull/2235`, 11: `/issues/625`, 12: `/releases`, 13: `/tree/master/models`, 14: `/tree/master/src/algorithm`, 15: `/pulls`
+Top 15 paths: 01: `/`, 02: `/issues/2231`, 03: `/releases/tag/v3.0.0`, 04: `/tree/master/examples`, 05: `/issues`, 06: `/blob/master/doc/pinocchio_cheat_sheet.pdf`, 07: `/tree/master`, 08: `/tree/master/src`, 09: `/tree/master/include/pinocchio`, 10: `/pull/2235`, 11: `/issues/625`, 12: `/releases`, 13: `/tree/master/src/algorithm`, 14: `/tree/master/models`, 15: `/pulls`
 
 
 <script type="text/javascript">
