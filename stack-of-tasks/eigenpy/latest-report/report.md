@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-03-19 07:18 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-03-19 07:32 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `eigen.tuxfamily.org`, 06: `index.ros.org`, 07: `pypi.org`, 08: `Baidu`, 09: `DuckDuckGo`, 10: `yandex.ru`, 11: `chatgpt.com`, 12: `robotpkg.openrobots.org`, 13: `docs.ros.org`, 14: `jcarpent.github.io`, 15: `link.zhihu.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `eigen.tuxfamily.org`, 06: `index.ros.org`, 07: `pypi.org`, 08: `Baidu`, 09: `DuckDuckGo`, 10: `yandex.ru`, 11: `chatgpt.com`, 12: `docs.ros.org`, 13: `robotpkg.openrobots.org`, 14: `jcarpent.github.io`, 15: `link.zhihu.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`,
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/blob/master/development/build.md`, 04: `/issues`, 05: `/releases`, 06: `/tree/master/python`, 07: `/blob/master/CMakeLists.txt`, 08: `/tree/master/src`, 09: `/tree/master`, 10: `/tree/master/python/eigenpy`, 11: `/tree/master/include/eigenpy`, 12: `/pulls`, 13: `/issues/230`, 14: `/releases/tag/v3.10.0`, 15: `/pull/498`
+Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/blob/master/development/build.md`, 04: `/issues`, 05: `/releases`, 06: `/tree/master/python`, 07: `/blob/master/CMakeLists.txt`, 08: `/tree/master/src`, 09: `/tree/master/python/eigenpy`, 10: `/tree/master`, 11: `/tree/master/include/eigenpy`, 12: `/pulls`, 13: `/issues/230`, 14: `/pull/498`, 15: `/blob/458c0e195253568a20b4ed1342cd4df28e2373a2/include/eigenpy/numpy.hpp`
 
 
 <script type="text/javascript">
