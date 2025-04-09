@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/pinocchio
-% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-04-09 07:53 UTC.
+% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-04-09 08:18 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `Bing`, 05: `cn.bing.com`, 06: `linkedin.com`, 07: `Baidu`, 08: `chatgpt.com`, 09: `link.zhihu.com`, 10: `index.ros.org`, 11: `DuckDuckGo`, 12: `reddit.com`, 13: `pal-robotics.com`, 14: `com.linkedin.android`, 15: `pypi.org`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `Bing`, 05: `cn.bing.com`, 06: `linkedin.com`, 07: `Baidu`, 08: `chatgpt.com`, 09: `link.zhihu.com`, 10: `index.ros.org`, 11: `reddit.com`, 12: `DuckDuckGo`, 13: `pal-robotics.com`, 14: `com.linkedin.android`, 15: `pypi.org`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `Bing`, 05: `c
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/2231`, 03: `/releases/tag/v3.0.0`, 04: `/tree/master/examples`, 05: `/issues`, 06: `/tree/master`, 07: `/blob/master/doc/pinocchio_cheat_sheet.pdf`, 08: `/tree/master/src`, 09: `/releases`, 10: `/issues/625`, 11: `/tree/master/include/pinocchio`, 12: `/pull/2235`, 13: `/blob/master/examples/inverse-kinematics.cpp`, 14: `/tree/master/models`, 15: `/tree/master/src/algorithm`
+Top 15 paths: 01: `/`, 02: `/issues/2231`, 03: `/releases/tag/v3.0.0`, 04: `/tree/master/examples`, 05: `/issues`, 06: `/tree/master`, 07: `/blob/master/doc/pinocchio_cheat_sheet.pdf`, 08: `/tree/master/src`, 09: `/releases`, 10: `/issues/625`, 11: `/tree/master/include/pinocchio`, 12: `/pull/2235`, 13: `/blob/master/examples/inverse-kinematics.cpp`, 14: `/tree/master/src/algorithm`, 15: `/pulls`
 
 
 <script type="text/javascript">
