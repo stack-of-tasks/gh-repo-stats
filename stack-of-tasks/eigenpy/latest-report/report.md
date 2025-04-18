@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-04-18 07:53 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-04-18 08:17 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `eigen.tuxfamily.org`, 06: `index.ros.org`, 07: `DuckDuckGo`, 08: `Baidu`, 09: `pypi.org`, 10: `chatgpt.com`, 11: `docs.ros.org`, 12: `yandex.ru`, 13: `robotpkg.openrobots.org`, 14: `link.zhihu.com`, 15: `jcarpent.github.io`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `eigen.tuxfamily.org`, 06: `index.ros.org`, 07: `DuckDuckGo`, 08: `Baidu`, 09: `pypi.org`, 10: `robotpkg.openrobots.org`, 11: `yandex.ru`, 12: `docs.ros.org`, 13: `chatgpt.com`, 14: `link.zhihu.com`, 15: `jcarpent.github.io`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`,
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/blob/master/development/build.md`, 04: `/issues`, 05: `/releases`, 06: `/tree/master`, 07: `/tree/master/python`, 08: `/blob/master/CMakeLists.txt`, 09: `/tree/master/src`, 10: `/tree/master/python/eigenpy`, 11: `/pulls`, 12: `/tree/master/include/eigenpy`, 13: `/issues/230`, 14: `/releases/tag/v3.10.0`, 15: `/blob/458c0e195253568a20b4ed1342cd4df28e2373a2/include/eigenpy/numpy.hpp`
+Top 15 paths: 01: `/`, 02: `/issues/86`, 03: `/blob/master/development/build.md`, 04: `/issues`, 05: `/releases`, 06: `/tree/master`, 07: `/tree/master/python`, 08: `/blob/master/CMakeLists.txt`, 09: `/tree/master/src`, 10: `/tree/master/python/eigenpy`, 11: `/pulls`, 12: `/tree/master/include/eigenpy`, 13: `/issues/230`, 14: `/blob/458c0e195253568a20b4ed1342cd4df28e2373a2/include/eigenpy/numpy.hpp`, 15: `/releases/tag/v3.10.0`
 
 
 <script type="text/javascript">
