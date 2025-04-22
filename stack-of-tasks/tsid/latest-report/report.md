@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/tsid
-% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-04-22 07:44 UTC.
+% Generated for [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-04-22 07:54 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `pypi.org`, 08: `DuckDuckGo`, 09: `chatgpt.com`, 10: `cn.bing.com`, 11: `statics.teams.cdn.office.net`, 12: `link.zhihu.com`, 13: `web.telegram.org`, 14: `gitee.com`, 15: `ggory15.github.io`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`, 04: `memory-of-motion.github.io`, 05: `Bing`, 06: `yandex.ru`, 07: `pypi.org`, 08: `DuckDuckGo`, 09: `chatgpt.com`, 10: `link.zhihu.com`, 11: `web.telegram.org`, 12: `statics.teams.cdn.office.net`, 13: `cn.bing.com`, 14: `gitee.com`, 15: `search.brave.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `andreadelprete.github.io`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/wiki`, 03: `/tree/master/exercizes`, 04: `/tree/master/src`, 05: `/tree/master/demo`, 06: `/issues`, 07: `/tree/master`, 08: `/tree/master/exercizes/notebooks`, 09: `/blob/master/demo/demo_quadruped.py`, 10: `/tree/master/include/tsid`, 11: `/issues/232`, 12: `/pull/234`, 13: `/tree/master/src/tasks`, 14: `/releases/tag/v1.8.0`, 15: `/blob/master/exercizes/tsid_biped.py`
+Top 15 paths: 01: `/`, 02: `/wiki`, 03: `/tree/master/exercizes`, 04: `/tree/master/src`, 05: `/tree/master/demo`, 06: `/issues`, 07: `/tree/master`, 08: `/tree/master/exercizes/notebooks`, 09: `/tree/master/include/tsid`, 10: `/pull/234`, 11: `/issues/232`, 12: `/blob/master/demo/demo_quadruped.py`, 13: `/tree/master/src/tasks`, 14: `/releases/tag/v1.8.0`, 15: `/pulls`
 
 
 <script type="text/javascript">
