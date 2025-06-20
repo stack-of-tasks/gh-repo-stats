@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/eigenpy
-% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-06-20 07:46 UTC.
+% Generated for [stack-of-tasks/eigenpy](https://github.com/stack-of-tasks/eigenpy) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-06-20 07:56 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `eigen.tuxfamily.org`, 06: `index.ros.org`, 07: `pypi.org`, 08: `DuckDuckGo`, 09: `Baidu`, 10: `chatgpt.com`, 11: `docs.ros.org`, 12: `yandex.ru`, 13: `robotpkg.openrobots.org`, 14: `jcarpent.github.io`, 15: `link.zhihu.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`, 05: `eigen.tuxfamily.org`, 06: `index.ros.org`, 07: `pypi.org`, 08: `DuckDuckGo`, 09: `chatgpt.com`, 10: `Baidu`, 11: `docs.ros.org`, 12: `yandex.ru`, 13: `robotpkg.openrobots.org`, 14: `jcarpent.github.io`, 15: `link.zhihu.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `cn.bing.com`,
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/master/development/build.md`, 03: `/issues/86`, 04: `/blob/devel/development/build.md`, 05: `/issues`, 06: `/releases`, 07: `/tree/master`, 08: `/tree/master/python`, 09: `/tree/master/python/eigenpy`, 10: `/blob/master/CMakeLists.txt`, 11: `/tree/master/src`, 12: `/tree/devel`, 13: `/tree/master/include/eigenpy`, 14: `/issues/230`, 15: `/pulls`
+Top 15 paths: 01: `/`, 02: `/blob/master/development/build.md`, 03: `/issues/86`, 04: `/blob/devel/development/build.md`, 05: `/issues`, 06: `/releases`, 07: `/tree/master`, 08: `/tree/master/python`, 09: `/blob/master/CMakeLists.txt`, 10: `/tree/master/python/eigenpy`, 11: `/tree/master/src`, 12: `/pulls`, 13: `/tree/devel`, 14: `/tree/master/include/eigenpy`, 15: `/issues/230`
 
 
 <script type="text/javascript">
