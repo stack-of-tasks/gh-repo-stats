@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/pinocchio
-% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-06-21 07:32 UTC.
+% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-06-21 07:43 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `Bing`, 05: `c
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/2231`, 03: `/releases/tag/v3.0.0`, 04: `/tree/master/examples`, 05: `/tree/devel/examples`, 06: `/issues`, 07: `/tree/master`, 08: `/blob/master/doc/pinocchio_cheat_sheet.pdf`, 09: `/tree/devel`, 10: `/releases`, 11: `/tree/master/src`, 12: `/tree/master/include/pinocchio`, 13: `/blob/master/examples/inverse-kinematics.py`, 14: `/tree/devel/src`, 15: `/releases/tag/v3.5.0`
+Top 15 paths: 01: `/`, 02: `/issues/2231`, 03: `/releases/tag/v3.0.0`, 04: `/tree/master/examples`, 05: `/tree/devel/examples`, 06: `/issues`, 07: `/tree/master`, 08: `/blob/master/doc/pinocchio_cheat_sheet.pdf`, 09: `/tree/devel`, 10: `/releases`, 11: `/tree/master/src`, 12: `/tree/master/include/pinocchio`, 13: `/blob/master/examples/inverse-kinematics.py`, 14: `/tree/devel/src`, 15: `/blob/devel/doc/pinocchio_cheat_sheet.pdf`
 
 
 <script type="text/javascript">
