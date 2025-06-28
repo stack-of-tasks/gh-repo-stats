@@ -1,5 +1,5 @@
 % Statistics for stack-of-tasks/pinocchio
-% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-06-28 07:53 UTC.
+% Generated for [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-06-28 08:17 UTC.
 
 
 ## Views
